@@ -1,0 +1,31 @@
+* {
+    outline: 1px solid grey;
+}
+
+#main-header {
+    width: 100vw;
+    height: 6rem;
+}
+
+
+#sidebar-one,
+#sidebar-two {
+    width: 20%;
+}
+
+
+#main-container {
+    width: 60%;
+}
+
+
+#sidebar-one,
+#sidebar-two,
+#main-container {
+    display: inline-block;
+    height: 80vh
+}
+
+#main-footer {
+    width: 100vw;
+}
